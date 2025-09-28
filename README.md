@@ -1,5 +1,5 @@
-# LEO-PNT Satellite Constellation Designer
-A comprehensive Python tool for designing and analyzing Low Earth Orbit Position, Navigation, and Timing (LEO-PNT) satellite constellations using pure Python implementation.
+# LEO-PNT Satellite Constellation Design
+A comprehensive Python execution, designing and analyzing Low Earth Orbit Position, Navigation, and Timing (LEO-PNT) satellite constellations.
 
 ## Constellation Design
 
